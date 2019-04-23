@@ -18,5 +18,6 @@ public class aantekeningen {
 
          */
         System.out.println("test");
+        System.out.println("test2");
     }
 }
