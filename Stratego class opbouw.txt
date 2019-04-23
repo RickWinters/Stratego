@@ -36,3 +36,6 @@ misschien zelf een database script aanmaken??? Omdat het kan.
 ------------------------------------------
 Database?
 Hier hetzelfde voor hoe de database werkt?
+
+
+test blablabla

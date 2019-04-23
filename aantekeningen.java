@@ -17,5 +17,6 @@ public class aantekeningen {
         met 'git commit -am' worden de files gepushed naar de off-site repository. Hiermee kan men een berichtje / notitie erbij voeren
 
          */
+        System.out.println("test");
     }
 }
