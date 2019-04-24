@@ -21,5 +21,19 @@ public class aantekeningen {
         System.out.println("test2");
         System.out.println("test3");
         System.out.println("test4");
+
+
+
+
+
+        /*
+        SQL
+        Structured Query Language
+        "ik wil alles zien van auto met id 2,"
+        SELECT * from care where id = 2,
+        SELECT id, price from CAR where id = 2"
+        Select (de kolommon) van (tabel) where (velden)
+
+         */
     }
 }
